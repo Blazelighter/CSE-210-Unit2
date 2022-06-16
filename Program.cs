@@ -1,7 +1,6 @@
-﻿using Hilo;
-using Director;
+﻿using System;
 
-namespace Hilo
+namespace Card
 {
     /// <summary>
     /// The program's entry point.

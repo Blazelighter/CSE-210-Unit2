@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\CSE-210 Unit2\\CSE-210 Unit2.csproj": {}
+    "C:\\Users\\remst\\OneDrive\\Escritorio\\Prg\\CSE-210-Unit2\\CSE-210 Unit2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\CSE-210 Unit2\\CSE-210 Unit2.csproj": {
+    "C:\\Users\\remst\\OneDrive\\Escritorio\\Prg\\CSE-210-Unit2\\CSE-210 Unit2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\CSE-210 Unit2\\CSE-210 Unit2.csproj",
+        "projectUniqueName": "C:\\Users\\remst\\OneDrive\\Escritorio\\Prg\\CSE-210-Unit2\\CSE-210 Unit2.csproj",
         "projectName": "CSE-210 Unit2",
-        "projectPath": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\CSE-210 Unit2\\CSE-210 Unit2.csproj",
-        "packagesPath": "C:\\Users\\Todd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Todd\\Documents\\Comp Sci\\CSE-210\\CSE-210 Unit2\\obj\\",
+        "projectPath": "C:\\Users\\remst\\OneDrive\\Escritorio\\Prg\\CSE-210-Unit2\\CSE-210 Unit2.csproj",
+        "packagesPath": "C:\\Users\\remst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\remst\\OneDrive\\Escritorio\\Prg\\CSE-210-Unit2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Todd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\remst\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

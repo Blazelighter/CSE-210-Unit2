@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hilo
+namespace Card
 {
     public class Card 
     {
         
-        int value = 0;
+        public int value = 0;
 
         public Card() // constructing the new instance of Die
         {
