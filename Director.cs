@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-<<<<<<< HEAD
 namespace Card
 {
     public class Director
@@ -94,14 +93,5 @@ namespace Card
         }
 
 
-=======
-namespace Hilo
-{
-    public class Director
-    {
-        Card card;
-        bool isPlaying = true;
-        int score = 0;
->>>>>>> 959636047c0d5ffc91a9917ac783948d28674380
     }
 }
