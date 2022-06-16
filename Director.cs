@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-<<<<<<< HEAD
 namespace Card
 {
     public class Director
@@ -83,7 +82,7 @@ namespace Card
 
         public bool CompareCards(Card card1, Card card2, string guess)
         {
-            if (guess == "h")
+            if (guess == "l")
             {
                 return (card1.value < card2.value);
             }
@@ -94,14 +93,5 @@ namespace Card
         }
 
 
-=======
-namespace Hilo
-{
-    public class Director
-    {
-        Card card;
-        bool isPlaying = true;
-        int score = 0;
->>>>>>> 959636047c0d5ffc91a9917ac783948d28674380
     }
 }
