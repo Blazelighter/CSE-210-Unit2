@@ -39,7 +39,7 @@ namespace Card
             if (isPlaying){
                 Console.WriteLine($"The card is:{card1.value}");
                 Console.WriteLine("Higher or Lower? [h/l] ");
-                string guess = Console.ReadLine();
+                guess = Console.ReadLine();
             }
             
         }
