@@ -82,7 +82,7 @@ namespace Card
 
         public bool CompareCards(Card card1, Card card2, string guess)
         {
-            if (guess == "l")
+            if (guess == "h")
             {
                 return (card1.value < card2.value);
             }
