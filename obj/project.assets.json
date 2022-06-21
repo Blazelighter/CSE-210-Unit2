@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remst\\OneDrive\\Escritorio\\Prg\\CSE-210-Unit2\\CSE-210 Unit2.csproj",
+      "projectUniqueName": "C:\\Users\\remst\\OneDrive\\Documents\\GitHub\\CSE-210-Unit2\\CSE-210 Unit2.csproj",
       "projectName": "CSE-210 Unit2",
-      "projectPath": "C:\\Users\\remst\\OneDrive\\Escritorio\\Prg\\CSE-210-Unit2\\CSE-210 Unit2.csproj",
+      "projectPath": "C:\\Users\\remst\\OneDrive\\Documents\\GitHub\\CSE-210-Unit2\\CSE-210 Unit2.csproj",
       "packagesPath": "C:\\Users\\remst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remst\\OneDrive\\Escritorio\\Prg\\CSE-210-Unit2\\obj\\",
+      "outputPath": "C:\\Users\\remst\\OneDrive\\Documents\\GitHub\\CSE-210-Unit2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\remst\\AppData\\Roaming\\NuGet\\NuGet.Config"
